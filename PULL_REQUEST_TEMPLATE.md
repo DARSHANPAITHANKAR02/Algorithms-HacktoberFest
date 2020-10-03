@@ -4,4 +4,4 @@
  - [x] Added a file in correct language folder
  - [x] Followed [Piyush](https://github.com/piyush97) 
  - [x] Starred the repository
- - [x] Wrote about the algo in the Readme.md  
+ - [x] Wrote about the algo in the Readme.md   
